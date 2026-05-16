@@ -14,6 +14,8 @@ Added new line by Dam
 
 ## What It Does
 
+--New Line Added--
+
 Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
 
 1. **Analyzes the transcript** — map-reduce summarization extracts topics, key concepts, and a structured summary
