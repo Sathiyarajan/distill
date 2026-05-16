@@ -29,7 +29,7 @@ All processing happens locally. No data leaves your machine when using Ollama or
 
 Just a testing 
 
------
+-------
 
 ## Architecture
 ### Changes made by Bineetha
@@ -679,9 +679,11 @@ Trying to add some doc
 #Testing -Bhagya
 
 #Testing - Naushin. 
+# testing - new N
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
 
+Thanks Thanks
 # Testing by kannabiran
 ## changes to readme to get contributor access for Gopal KV... from inceptez class  
 check readme
@@ -691,3 +693,6 @@ check readme
 
 
 Shabbir changes
+=======
+## New
+
