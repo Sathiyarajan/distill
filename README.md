@@ -17,7 +17,7 @@ Added new line by Dam
 
 --New Line Added--
 
-Distill turns any Teams / Zoom / Google Meet transcript into a complete learning assessment in minutes:
+Distill turns any Teams / Zoom / Google Meet or other transcripts into a complete learning assessment in minutes:
 
 1. **Analyzes the transcript** — map-reduce summarization extracts topics, key concepts, and a structured summary
 2. **Draws a concept map** — Mermaid diagram showing how every concept connects
@@ -664,6 +664,7 @@ MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
 Trying to add some doc
 #Testing line - Sabari
 #Testing - Karthik
+#adding a new line
 #Testing - Nat
 
 #Testing - Nat
@@ -681,8 +682,10 @@ Trying to add some doc
 
 MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
 
+# Testing by kannabiran
 ## changes to readme to get contributor access for Gopal KV... from inceptez class  
 check readme
 
 ## Test Comment from Raj
 ...
+## New
