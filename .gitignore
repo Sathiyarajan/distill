@@ -121,3 +121,4 @@ logs/
 *.temp
 tmp/
 temp/
+config.yaml
